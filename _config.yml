@@ -1,0 +1,11 @@
+title: Savage Citizens
+description: "Official campaign site for Rachel Savage."
+baseurl: ""  # Leave empty for local testing
+url: "http://localhost:4000"  # For local dev
+sass:
+  sass_dir: _sass
+  style: compressed
+include:
+  - assets/css
+  - assets/js
+destination: _site
