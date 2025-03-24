@@ -8,4 +8,5 @@ sass:
 include:
   - assets/css
   - assets/js
+  - assets/img
 destination: _site
